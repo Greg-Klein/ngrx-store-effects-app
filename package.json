@@ -13,7 +13,7 @@
     "test": "karma start ./karma.conf.js"
   },
   "devDependencies": {
-    "@angular/compiler": "5.0.3",
+    "@angular/compiler": "20.3.27",
     "@angular/compiler-cli": "5.0.3",
     "@ngtools/webpack": "1.7.1",
     "@types/core-js": "0.9.43",
@@ -45,12 +45,12 @@
     "sass-loader": "6.0.6",
     "typescript": "2.6.1",
     "webpack": "3.6.0",
-    "webpack-dev-server": "2.8.2"
+    "webpack-dev-server": "5.2.6"
   },
   "dependencies": {
     "@angular/animations": "5.0.3",
-    "@angular/common": "5.0.3",
-    "@angular/core": "5.0.3",
+    "@angular/common": "20.3.28",
+    "@angular/core": "20.3.28",
     "@angular/forms": "5.0.3",
     "@angular/http": "5.0.3",
     "@angular/platform-browser": "5.0.3",
